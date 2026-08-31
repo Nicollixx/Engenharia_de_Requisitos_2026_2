@@ -856,7 +856,7 @@ O estudo também demonstra que o levantamento de requisitos não deve começar d
 
 Dessa forma, a Engenharia de Requisitos e a Gestão de Processos de Negócio trabalham de forma complementar, permitindo que a solução tecnológica esteja alinhada às reais necessidades da organização.
 
-**Aluno:** Marco Antônio Nista Popovidis
+**Aluno:** Marco Antônio Nista Popovidis, Nicolle Da Silva Coelho, Victor Gabriel Madero
 **Curso:** Engenharia de Software
 **Disciplina:** Engenharia de Requisitos
 **Estudo de Caso:** Clínica Vida+ Saúde
