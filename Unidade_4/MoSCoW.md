@@ -270,7 +270,7 @@ Médico altera agenda → Recepcionista identifica pacientes afetados → Entra 
 | Conflito de horários                        | Agenda centralizada          | Redução de conflitos          |
 | Cadastro duplicado                          | Cadastro único               | Redução de retrabalho         |
 | Falta de confirmação                        | Confirmação automática       | Maior confiabilidade          |
-| Falta de lembretes                          | Lembretes automáticos        | Redução de faltas             |
+| Falta de lembretes                          | Bot integrado com IA         | Redução de faltas              |
 | Cancelamentos manuais                       | Cancelamento integrado       | Liberação rápida dos horários |
 | Alteração de agenda                         | Notificação automática       | Melhor comunicação            |
 | Falta de indicadores                        | Dashboard gerencial          | Melhor tomada de decisão      |
