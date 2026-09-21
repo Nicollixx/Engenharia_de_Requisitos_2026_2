@@ -5,7 +5,7 @@
 **Disciplina:** Engenharia de Requisitos
 **Curso:** Engenharia de Software
 **Modalidade:** Trabalho
-**Aluno:** Marco Antônio Nista Popovidis, Nicolle Da Silva Coelho, Victor Gabriel, João Pedro Pimentel
+**Aluno:** Marco Antônio Nista Popovidis, Nicolle Da Silva Coelho, Victor Gabriel, João Pedro Pimentel, Sara Rebeca Rosario Soares.
 
 ---
 
