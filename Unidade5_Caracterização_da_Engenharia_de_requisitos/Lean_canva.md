@@ -4,5 +4,6 @@
 * João Pedro Pimentel
 * Victor Gabriel Madeiro Brito Marques
 
-<img width="1052" height="565" alt="image" src="https://github.com/user-attachments/assets/8b8c16da-e0fc-4d18-8bcc-2fc42a4c129f" />
+<img width="1586" height="630" alt="Canvas de Visão de Produto (1)" src="https://github.com/user-attachments/assets/91ba262f-2827-4516-9d24-f6b2cf7f774d" />
+
 
