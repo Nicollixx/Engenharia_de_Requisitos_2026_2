@@ -1,5 +1,5 @@
 # Desperdício de alimentos em mercados
-## Aunos:
+## Alunos:
 * Nicolle Da Silva Coelho
 * João Pedro Pimentel
 * Victor Gabriel Madeiro Brito Marques
