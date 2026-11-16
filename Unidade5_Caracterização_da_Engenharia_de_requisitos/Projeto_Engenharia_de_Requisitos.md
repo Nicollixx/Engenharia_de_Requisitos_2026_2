@@ -1,4 +1,14 @@
-## Equipe - Nicolle Da Silva Coelho - Victor Gabriel Madeiro Brito Marques - João Pedro Pimentel De Freitas # Sistema de Desperdício de Alimentos em Mercados Aplicativo que conecta estabelecimentos que possuem alimentos próximos do vencimento a consumidores interessados em adquiri-los com 50% de desconto, reduzindo o desperdício. Os alimentos não vendidos podem ser destinados a ONGs e instituições parceiras. Projeto da disciplina de Engenharia de Requisitos, curso de Bacharelado em Engenharia de Software, Centro Universitário de Brasília (CEUB), Novembro de 2026. ## Objetivo Transformar o desperdício em benefícios econômicos para os comerciantes, economia para os consumidores e impactos sociais e ambientais positivos, tratando problemas como as perdas financeiras de padarias, cafés, restaurantes e supermercados, a dificuldade de acesso a refeições de qualidade por preços mais acessíveis, a burocracia e a falta de logística para doações e a ausência de controle eficiente dos prazos de validade. 
+## Equipe
+- Nicolle Da Silva Coelho
+- Victor Gabriel Madeiro Brito Marques
+- João Pedro Pimentel De Freitas
+
+# Sistema de Desperdício de Alimentos em Mercados Aplicativo que conecta estabelecimentos que possuem alimentos próximos do vencimento a consumidores interessados em adquiri-los com 50% de desconto, reduzindo o desperdício. Os alimentos não vendidos podem ser destinados a ONGs e instituições parceiras. Projeto da disciplina de Engenharia de Requisitos, curso de Bacharelado em Engenharia de Software, Centro Universitário de Brasília (CEUB), Novembro de 2026. 
+
+## Objetivo
+Transformar o desperdício em benefícios econômicos para os comerciantes, economia para os consumidores e impactos sociais e ambientais positivos, tratando problemas como as perdas financeiras de padarias, cafés, restaurantes e supermercados, a dificuldade de acesso a refeições de qualidade por preços mais acessíveis, a burocracia e a falta de logística para doações e a ausência de controle eficiente dos prazos de validade.
+
+
  ## Público-alvo 
 - **Consumidores:** estudantes e jovens adultos que querem economizar e se preocupam com a causa ambiental. 
 - **Estabelecimentos:** donos de padarias, cafés, restaurantes e supermercados de pequeno e médio porte. 
