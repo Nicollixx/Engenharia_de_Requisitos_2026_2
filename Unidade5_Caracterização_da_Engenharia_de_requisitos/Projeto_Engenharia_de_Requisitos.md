@@ -33,6 +33,8 @@ O projeto tem 36 requisitos funcionais (RF01 a RF36) e 22 não funcionais (RNF01
 ## Documentação
 O documento do projeto reúne introdução, requisitos, arquitetura, protótipo de telas, padrões de design e os diagramas de casos de uso, classes, sequência e entidade-relacionamento. Está na pasta [`docs/`](docs/): - [`docs/Projeto_Engenharia-de-Requisitos.docx`](docs/Projeto_Engenharia-de-Requisitos.docx) 
 
-## Gestão de tarefas O projeto usa **Kanban**, montado no Miro, que todos os integrantes podem consultar e atualizar: [inserir link do quadro] Cada cartão representa uma tarefa e contém título começando com verbo, requisito relacionado (por exemplo, RF12 e RF13), responsável e prazo, etiquetas de tipo (documentação, design, requisitos, validação) e de perfil atendido (usuário, estabelecimento, ONG, administrador) e o critério de pronto. 
+## Gestão de tarefas
+O projeto usa **Kanban**, montado no Miro, que todos os integrantes podem consultar e atualizar: [inserir link do quadro] Cada cartão representa uma tarefa e contém título começando com verbo, requisito relacionado (por exemplo, RF12 e RF13), responsável e prazo, etiquetas de tipo (documentação, design, requisitos, validação) e de perfil atendido (usuário, estabelecimento, ONG, administrador) e o critério de pronto. 
 
-## Padrões de código Código comentado e padronizado, seguindo boas práticas e convenções, e organizado de forma modular.
+## Padrões de código 
+Código comentado e padronizado, seguindo boas práticas e convenções, e organizado de forma modular.
